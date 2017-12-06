@@ -2,10 +2,6 @@ TEST
 
 Test Subtitle
 
- 
-
- 
-
 ![image alt text](image_0.png)
 
 Table of Contents
@@ -21,8 +17,6 @@ Configuration - Alibaba Cloud. 7
 Configuration - Google Cloud. 21
 
 Configuration - Verification. 29
-
- 
 
  
 
